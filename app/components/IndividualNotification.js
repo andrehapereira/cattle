@@ -3,9 +3,8 @@ import { View, Text } from "react-native";
 import React from "react";
 
 //icons
-import NotifHeart from "../assets/svg/notificationRound.svg";
-import Rupee from "../assets/svg/rupee.svg";
-import FoodIco from "../assets/svg/food.svg";
+import NotifHeart from "../assets/svg/NotificationRound.js";
+import Rupee from "../assets/svg/Rupee.js";
 
 const IndividualNotification = ({ data }) => {
   return (

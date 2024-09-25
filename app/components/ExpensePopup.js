@@ -14,7 +14,7 @@ import { StyleSheet } from "react-native";
 import DropDownPicker from "react-native-dropdown-picker";
 
 //icons
-import Heart from "../assets/svg/heart.svg";
+import Heart from "../assets/svg/Heart.js";
 import { cp } from "../Context";
 import axios from "axios";
 

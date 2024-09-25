@@ -4,8 +4,8 @@ import React from "react";
 import { StyleSheet } from "react-native";
 
 // icons
-import Back from "../assets/svg/goBack.svg";
-import Notification from "../assets/svg/notification.svg";
+import Back from "../assets/svg/GoBack.js";
+import Notification from "../assets/svg/Notification.js";
 import { useNavigation } from "@react-navigation/native";
 
 const MainHeader = ({ title, notification = false }) => {

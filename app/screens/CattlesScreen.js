@@ -2,10 +2,10 @@ import { View, Text, SafeAreaView, TouchableOpacity } from "react-native";
 import React, { useContext } from "react";
 import MainHeader from "../components/MainHeader";
 
-import AllCatles from "../assets/svg/cattle.svg";
-import Cow from "../assets/svg/cow.svg";
-import Ox from "../assets/svg/ox.svg";
-import Calve from "../assets/svg/calves.svg";
+import AllCatles from "../assets/svg/Cattle.js";
+import Cow from "../assets/svg/Cows.js";
+import Ox from "../assets/svg/Ox.js";
+import Calve from "../assets/svg/Calves.js";
 
 import styles from "../styles/CattleScreen.design.js";
 import { useNavigation } from "@react-navigation/native";

@@ -3,9 +3,9 @@ import React from "react";
 import { StyleSheet } from "react-native";
 
 //icons
-import Menu from "../assets/svg/menu.svg";
-import Notification from "../assets/svg/notification.svg";
-import Gear from "../assets/svg/gear.svg";
+import Menu from "../assets/svg/Menu.js";
+import Notification from "../assets/svg/Notification.js";
+import Gear from "../assets/svg/Gear.js";
 import { useNavigation } from "@react-navigation/native";
 const UpperNav = () => {
   const navigator = useNavigation();

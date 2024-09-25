@@ -6,11 +6,11 @@ import UpperNav from "../components/UpperNav.js";
 import { cp } from "../Context";
 
 //icons
-import Cattle from "../assets/svg/cow.svg";
-import Health from "../assets/svg/heart.svg";
-import Income from "../assets/svg/income.svg";
-import Expense from "../assets/svg/expense.svg";
-import Steam from "../assets/svg/steam.svg";
+import Cattle from "../assets/svg/Cows.js";
+import Health from "../assets/svg/Heart.js";
+import Income from "../assets/svg/Income.js";
+import Expense from "../assets/svg/Expense.js";
+import Steam from "../assets/svg/Steam.js";
 
 // styles
 import styles from "../styles/HomeScreen.js";
