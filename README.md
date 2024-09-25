@@ -6,3 +6,9 @@ Introducing CattleCare, the all-in-one solution for managing and tracking your c
 
 # Preview of the application design
 ![Cattle care](https://github.com/sarojregmi200/cattle-care/assets/94213188/f4c2822b-2064-4363-8e07-bd2021b2fb8b)
+
+# Setup
+
+1. Node 16
+2. ```npm ci``` (in /app)
+3. ```npm run web``` (in /app)
